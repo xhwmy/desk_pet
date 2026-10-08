@@ -1,0 +1,12 @@
+{
+  "pet": "chiyan",
+  "display_name": "赤焰",
+  "standard_rows_complete": 9,
+  "look_cardinals_complete": true,
+  "look_rows_remaining": [
+    "look-row-9",
+    "look-row-10"
+  ],
+  "blocked_reason": "image generation usage limit (HTTP 429)",
+  "resume_from": "look-row-9"
+}

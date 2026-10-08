@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "D:\\deskpet\\codex-pet\\chiyan",
+  "spritesheet": "D:\\deskpet\\codex-pet\\chiyan\\final\\spritesheet-extended.webp",
+  "validation": "D:\\deskpet\\codex-pet\\chiyan\\final\\validation-extended.json",
+  "installed_validation": "D:\\deskpet\\codex-pet\\chiyan\\final\\validation-installed.json",
+  "chroma_despill": "D:\\deskpet\\codex-pet\\chiyan\\qa\\chroma-despill-extended.json",
+  "contact_sheet": "D:\\deskpet\\codex-pet\\chiyan\\qa\\contact-sheet-extended.png",
+  "direction_sheet": "D:\\deskpet\\codex-pet\\chiyan\\qa\\look-directions.png",
+  "direction_semantics": "D:\\deskpet\\codex-pet\\chiyan\\qa\\direction-semantics.json",
+  "blind_direction_validation": "D:\\deskpet\\codex-pet\\chiyan\\qa\\direction-blind-validation.json",
+  "continuity": "D:\\deskpet\\codex-pet\\chiyan\\qa\\look-continuity.json",
+  "review": "D:\\deskpet\\codex-pet\\chiyan\\qa\\review.json",
+  "package": "C:\\Users\\windows\\.codex\\pets\\chiyan",
+  "visibility_setting": "avatar-overlay-pet-visible = true",
+  "notes": [
+    "Blind validation passed with one reviewed minor warning at 292.5°.",
+    "Installed sprite SHA-256 matches staged package."
+  ]
+}

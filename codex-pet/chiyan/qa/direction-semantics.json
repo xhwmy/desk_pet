@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "reviewed_by": "independent final visual QA worker",
+  "directions": [
+    {
+      "direction": "000",
+      "expected": "up",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "centered face; chin and eyes raised"
+    },
+    {
+      "direction": "022.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "nose and near eye shift screen-right; chin and pupils rise"
+    },
+    {
+      "direction": "045",
+      "expected": "up-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "right three-quarter face; elevated eye line and chin"
+    },
+    {
+      "direction": "067.5",
+      "expected": "up-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "near-right profile; nose and eye above level"
+    },
+    {
+      "direction": "090",
+      "expected": "right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "clear screen-right profile with level gaze"
+    },
+    {
+      "direction": "112.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "right profile; eyelid, eye line, and chin angle down"
+    },
+    {
+      "direction": "135",
+      "expected": "down-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "rightward nose; lowered eyes and dipped chin"
+    },
+    {
+      "direction": "157.5",
+      "expected": "down-right",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "slight rightward face bias; eyes strongly down under bangs"
+    },
+    {
+      "direction": "180",
+      "expected": "down",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "centered face with lowered head and eyes"
+    },
+    {
+      "direction": "202.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "nose and eye shift screen-left; eyelids and chin down"
+    },
+    {
+      "direction": "225",
+      "expected": "down-left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "left three-quarter face; lowered eye line and chin"
+    },
+    {
+      "direction": "247.5",
+      "expected": "down-left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "near-left profile; eye below level"
+    },
+    {
+      "direction": "270",
+      "expected": "left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "clear screen-left profile with level gaze"
+    },
+    {
+      "direction": "292.5",
+      "expected": "up-left",
+      "verdict": "warning",
+      "reason": "Upward pitch is subtle at pet size; the labeled loop confirms up-left without reversal.",
+      "observed": "left profile and nose are clear; upward eye and chin lift is subtle but progresses from 270 to 315 without reversal"
+    },
+    {
+      "direction": "315",
+      "expected": "up-left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "leftward nose; eyes and chin clearly raised"
+    },
+    {
+      "direction": "337.5",
+      "expected": "up-left",
+      "verdict": "pass",
+      "reason": "Observed landmarks support the expected direction.",
+      "observed": "left three-quarter face; eyes and chin tip up toward 000"
+    }
+  ],
+  "continuity": {
+    "verdict": "pass",
+    "notes": "000→022.5 and 157.5→180 have larger visible head turns, without major pop, identity change, or reversal."
+  },
+  "blind_warning": {
+    "pair": "vertical-7 A",
+    "direction": "292.5",
+    "severity": "minor",
+    "resolution": "Labeled loop supports up-left; upward pitch is subtle at pet size."
+  }
+}
