@@ -1,0 +1,65 @@
+{
+  "ok": true,
+  "atlas": "D:\\deskpet\\animations\\idle-six\\final\\chiyan-six-idles.webp",
+  "encoded_bytes": 5082252,
+  "sha256": "63b5315c2e896bd5de4b058f16984efc84f01b12423debccc759b0c58ad6eb3c",
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      201,
+      191,
+      160,
+      189,
+      203
+    ],
+    "airborne_lift_pixels": 43,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      98.5,
+      92.5,
+      94.0,
+      92.0,
+      93.0,
+      92.5,
+      93.5,
+      93.0,
+      98.5,
+      100.5,
+      101.5,
+      102.5,
+      102.0,
+      101.0,
+      100.5,
+      101.0
+    ],
+    "look_widths": [
+      135,
+      135,
+      134,
+      134,
+      132,
+      133,
+      135,
+      132,
+      127,
+      129,
+      129,
+      123,
+      122,
+      124,
+      129,
+      130
+    ],
+    "maximum_center_drift_pixels": 6.5,
+    "maximum_width_ratio": 1.1065573770491803
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 292.5 accepted with a reviewed warning",
+    "000->022.5 diff is a local outlier (4472 pixels vs neighbor average 3063)",
+    "157.5->180 diff is a local outlier (4593 pixels vs neighbor average 2554)"
+  ]
+}

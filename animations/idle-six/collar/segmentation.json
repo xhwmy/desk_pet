@@ -1,0 +1,20 @@
+{
+  "method": "sparse-alpha-column valleys and added gutters",
+  "cuts": [
+    0,
+    370,
+    728,
+    1085,
+    1447,
+    1809,
+    2172
+  ],
+  "boundary_ink_pixels": [
+    6,
+    12,
+    3,
+    0,
+    6
+  ],
+  "source_pixels_removed": 0
+}

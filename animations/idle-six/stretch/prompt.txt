@@ -1,0 +1,11 @@
+Use case: identity-preserve. Asset type: native animated desktop pet production sprite strip.
+Create exactly ONE horizontal row of SIX evenly spaced complete full-body sequential animation poses on a uniform pure cyan #00FFFF opaque background. Each equal slot has only one character, no overlap between neighboring slots. Use image 4 only as six-slot layout geometry; DO NOT draw its borders, grid, guides, numbers or text. Give generous cyan outer padding, visible cyan gutters, no floor/shadows.
+Identity: image 2 is the currently installed pet; preserve its exact small anime chibi proportions and polished colored line style. Image 1 is detail authority: very long fluffy bright red hair with orange/gold flame tips, red eyes, black high-collar long coat with red lining, silver fasteners and belt, black pants and black boots. Image 3 bottom row is the approved sleepy stretch concept only. Keep precisely the same person, hair silhouette, outfit, head size and drawing scale in all six slots.
+Action left to right:
+1. Relaxed neutral upright standing, hands down.
+2. Eyes closed in a small yawn, RIGHT hand raised to cover mouth, left hand down.
+3. BOTH arms raising with bent elbows beside head, eyes still softly closed, beginning overhead stretch.
+4. BOTH arms extended straight overhead, hands together above the head, eyes closed, gentle long yawn and stretching body.
+5. Arms lowering outward to relaxed position, eyes open with a small satisfied smile.
+6. Return to relaxed neutral upright standing, hands down, same as frame 1.
+Keep all poses fixed frontal slight three-quarter angle matching installed idle, same root horizontal center and common boot ground-contact baseline. Keep head width and boots size identical in all six frames. Reserve cyan room ABOVE THE HEAD IN EVERY SLOT for full overhead hands in frame 4, never crop wrists, fingers, hair or boots. All poses same scale; overhead pose is taller rather than shrunk. Hair and coat gently follow posture without dramatic displacement. No lettering, Z signs, symbols, fire, magic, effects, gradients, watermark, scene or extra character. Deliver as wide six-frame sprite strip.

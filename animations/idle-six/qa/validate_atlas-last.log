@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "file": "D:\\deskpet\\animations\\idle-six\\final\\chiyan-six-idles.webp",
+  "encoded_bytes": 5082252,
+  "sha256": "63b5315c2e896bd5de4b058f16984efc84f01b12423debccc759b0c58ad6eb3c",
+  "format": "WEBP",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "sprite_version_number": 2,
+  "width": 1536,
+  "height": 2288,
+  "transparent_rgb_residue_pixels": 0,
+  "errors": [],
+  "warnings": []
+}
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\validate_atlas.py:103: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  visible = [value > 0 for value in alpha.getdata()]
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\validate_atlas.py:116: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  rgba.getdata(), alpha.getdata(), expanded.getdata()

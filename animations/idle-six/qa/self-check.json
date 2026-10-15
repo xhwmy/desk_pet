@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "checked_at_utc": "2026-10-15T16:12:29.615976+00:00",
+  "checks": {
+    "native_dimensions": true,
+    "installed_pixels_equal_native_artifact": true,
+    "native_timeline_hash_matches": true,
+    "six_distinct_native_poses": true,
+    "all_six_actions_in_native_slots": true,
+    "all_six_source_reviews_pass": true,
+    "qa_atlas-validation_passes_current_bytes": true,
+    "qa_pet-quality_passes_current_bytes": true,
+    "native_atlas-validation_passes_current_bytes": true,
+    "native_pet-quality_passes_current_bytes": true,
+    "official_native_preflight_passes": true,
+    "sixteen_look_directions_preserved": true,
+    "full_animation_has_48_frames_and_loops_forever": true,
+    "full_animation_duration_28430ms": true,
+    "all_task_rows_stable_across_entire_animation": true,
+    "native_preview_has_six_poses_and_6600ms_cycle": true,
+    "all_state_video_and_gif_exist": true
+  },
+  "native_sha256": "ed7c82b8edd2e7bcda2bf51cb51d39b913df66933bdefb8f2c3aa315fad1fde9",
+  "full_animation_sha256": "63b5315c2e896bd5de4b058f16984efc84f01b12423debccc759b0c58ad6eb3c",
+  "native_mode": "six key poses; complete continuous animation remains a preview artifact"
+}

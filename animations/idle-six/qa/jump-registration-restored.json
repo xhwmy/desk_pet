@@ -1,0 +1,37 @@
+{
+  "source": "approved original jumping.png",
+  "source_bounds": [
+    [
+      16,
+      176,
+      426,
+      665
+    ],
+    [
+      436,
+      128,
+      860,
+      631
+    ],
+    [
+      869,
+      47,
+      1310,
+      535
+    ],
+    [
+      1317,
+      141,
+      1739,
+      626
+    ],
+    [
+      1745,
+      136,
+      2160,
+      670
+    ]
+  ],
+  "shared_scale": 0.31781701444622795,
+  "method": "restore source geometry using cleaned original cells"
+}

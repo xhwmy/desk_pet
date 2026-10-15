@@ -1,0 +1,32 @@
+{
+  "hair": {
+    "uniform_scale": 1.0,
+    "source_baseline": 203,
+    "target_baseline": 203
+  },
+  "collar": {
+    "uniform_scale": 1.0,
+    "source_baseline": 203,
+    "target_baseline": 203
+  },
+  "sleep": {
+    "uniform_scale": 1.0,
+    "source_baseline": 202,
+    "target_baseline": 203
+  },
+  "stretch": {
+    "uniform_scale": 1.0,
+    "source_baseline": 203,
+    "target_baseline": 203
+  },
+  "typing": {
+    "uniform_scale": 1.0,
+    "source_baseline": 202,
+    "target_baseline": 203
+  },
+  "peek": {
+    "uniform_scale": 1.0,
+    "source_baseline": 203,
+    "target_baseline": 203
+  }
+}

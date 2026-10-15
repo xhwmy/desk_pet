@@ -1,0 +1,11 @@
+Use case: identity-preserve. Asset type: native animated desktop pet production sprite strip.
+Create exactly ONE horizontal row of SIX evenly spaced complete full-body sequential animation poses on a uniform pure cyan #00FFFF opaque background. Each equal slot has only one character, no overlap between neighboring slots. Use image 4 only as six-slot layout geometry; DO NOT draw its borders, grid, guides, numbers or text. Give generous cyan outer padding, visible cyan gutters, no floor/shadows.
+Identity: image 2 is the currently installed pet; preserve its exact small anime chibi proportions and polished colored line style. Image 1 is detail authority: very long fluffy bright red hair with orange/gold flame tips, red eyes, black high-collar long coat with red lining, silver fasteners and belt, black pants and black boots. Image 3 top row is the approved sleepy pose concept only. Keep precisely the same person, hair silhouette, outfit, head size and drawing scale in all six slots.
+Action left to right:
+1. Relaxed neutral upright standing, hands down.
+2. Slowly bend knees into low crouch, preparing to sit, head gently lowering; both hands near knees.
+3. Seated on ground hugging both knees, eyes half closed, boots in front, coat and long hair settled around body.
+4. Seated with chin resting on folded hands atop knees, both eyes peacefully closed in a sleepy nod.
+5. Rising back up from sit, knees bent, hands near knees, eyes reopening.
+6. Return to relaxed neutral upright standing, hands down, same as frame 1.
+Keep all poses fixed frontal slight three-quarter angle matching installed idle, same root horizontal center and common bottom ground-contact baseline. Seated frames must be shorter in total height than standing frames; do NOT enlarge seated head/body to fill slot. Head width stays identical throughout. All hair, boots, hands and coat fully inside each slot. No chair, props, lettering, Z signs, symbols, effects, fire, gradients, watermark, or scene. Deliver as wide six-frame sprite strip.

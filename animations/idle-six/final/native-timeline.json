@@ -1,0 +1,30 @@
+{
+  "mode": "six native key poses, not full action strips",
+  "actions": [
+    "hair",
+    "collar",
+    "sleep",
+    "stretch",
+    "typing",
+    "peek"
+  ],
+  "frame_indices": [
+    2,
+    2,
+    3,
+    3,
+    3,
+    2
+  ],
+  "durations_ms": [
+    1680,
+    660,
+    660,
+    840,
+    840,
+    1920
+  ],
+  "duration_ms": 6600,
+  "sha256": "ed7c82b8edd2e7bcda2bf51cb51d39b913df66933bdefb8f2c3aa315fad1fde9",
+  "bytes": 3062900
+}
