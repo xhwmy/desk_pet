@@ -1,0 +1,19 @@
+{
+  "mode": "calm continuous native idle; no random action scheduler",
+  "source": "original.webp first six idle cells",
+  "durations_ms": [
+    1680,
+    660,
+    660,
+    840,
+    840,
+    1920
+  ],
+  "cycle_ms": 6600,
+  "task_rows_preserved": true,
+  "look_rows_preserved": true,
+  "unused_cells_preserved": true,
+  "sha256": "22d2e04f8806b0e925feb781d6da8d8d4b7e7c1c1095f6c7bb31aa3e6f2233c6",
+  "bytes": 3063928,
+  "client_modified": false
+}

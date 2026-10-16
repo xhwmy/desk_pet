@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "checked_at_utc": "2026-10-16T00:14:40.593097+00:00",
+  "checks": {
+    "v2_dimensions": true,
+    "stored_pixels_equal_final_atlas": true,
+    "idle_matches_approved_coherent_sequence": true,
+    "all_non_idle_rows_unchanged": true,
+    "unused_idle_cells_unchanged": true,
+    "timeline_matches_current_bytes": true,
+    "official_preflight_passed": true,
+    "atlas-validation_passes_exact_bytes": true,
+    "pet-quality_passes_exact_bytes": true,
+    "steady_idle_ground_contact": true,
+    "idle_includes_blink_variation": true,
+    "preview_matches_native_6600ms_cycle": true,
+    "all_state_video_exists": true
+  },
+  "sha256": "22d2e04f8806b0e925feb781d6da8d8d4b7e7c1c1095f6c7bb31aa3e6f2233c6",
+  "pet_id": "pet_6abb898c7228819191b6e896f2538d5d",
+  "native_mode": "calm continuous idle; 30-second random actions unsupported",
+  "client_modified": false
+}

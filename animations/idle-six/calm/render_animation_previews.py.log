@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "output_dir": "D:\\deskpet\\animations\\idle-six\\calm\\previews",
+  "previews": [
+    {
+      "state": "idle",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\idle.gif",
+      "frames": 6
+    },
+    {
+      "state": "running-right",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\running-right.gif",
+      "frames": 8
+    },
+    {
+      "state": "running-left",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\running-left.gif",
+      "frames": 8
+    },
+    {
+      "state": "waving",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\waving.gif",
+      "frames": 4
+    },
+    {
+      "state": "jumping",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\jumping.gif",
+      "frames": 5
+    },
+    {
+      "state": "failed",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\failed.gif",
+      "frames": 8
+    },
+    {
+      "state": "waiting",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\waiting.gif",
+      "frames": 6
+    },
+    {
+      "state": "running",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\running.gif",
+      "frames": 6
+    },
+    {
+      "state": "review",
+      "path": "D:\\deskpet\\animations\\idle-six\\calm\\previews\\review.gif",
+      "frames": 6
+    }
+  ]
+}

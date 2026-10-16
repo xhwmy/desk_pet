@@ -1,0 +1,11 @@
+{
+  "pet_id": "pet_6abb898c7228819191b6e896f2538d5d",
+  "name": "赤焰",
+  "is_custom": true,
+  "is_active": true,
+  "verified_on": "2026-10-16",
+  "mode": "calm continuous idle; no 30-second random scheduler",
+  "stored_pixels_verified": true,
+  "mp4_decode_exit_code": 0,
+  "client_modified": false
+}

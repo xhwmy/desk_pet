@@ -1,0 +1,22 @@
+{
+  "status": "preview only; not installed",
+  "installed_cause": "six unrelated action poses in one six-frame idle row",
+  "native_idle_frame_ms": [
+    1680,
+    660,
+    660,
+    840,
+    840,
+    1920
+  ],
+  "native_idle_cycle_ms": 6600,
+  "native_runtime": "Codex app.asar; Ccc, kcc and Rcc inspected read-only",
+  "native_interval_random_setting_found": false,
+  "requested_playback": {
+    "quiet_idle_ms": 30000,
+    "action": "random action, avoid immediate repeat",
+    "return_to_idle": true
+  },
+  "motion_fix": "keep coherent neutral, anticipation, movement, hold and return poses within each action; preserve head scale and ground contact",
+  "client_modified": false
+}
