@@ -1,0 +1,30 @@
+{
+  "ok": true,
+  "input": "D:\\deskpet\\animations\\idle-breath-2026-10-16\\qa\\idle-before-despill.png",
+  "output": "D:\\deskpet\\animations\\idle-breath-2026-10-16\\qa\\idle-clean.png",
+  "chroma_key": "#00FFFF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 13803,
+  "decontaminated_pixels": 13653,
+  "spill_suppressed_pixels": 13803,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c1": 2333,
+    "r0c5": 2314,
+    "r0c4": 2310,
+    "r0c0": 2308,
+    "r0c2": 2286,
+    "r0c3": 2252
+  },
+  "alpha_preserved": true
+}
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:206: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  source = list(rgba.getdata())
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:37: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  visible = [value > 0 for value in alpha.getdata()]
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:41: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return [is_visible and nearby > 0 for is_visible, nearby in zip(visible, expanded.getdata())]

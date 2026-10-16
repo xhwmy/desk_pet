@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "frames_root": "D:\\deskpet\\animations\\idle-breath-2026-10-16\\qa\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": []
+}

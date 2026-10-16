@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "idle",
+      "frames": [
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\00.png",
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\01.png",
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\02.png",
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\03.png",
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\04.png",
+        "D:\\deskpet\\animations\\idle-breath-2026-10-16\\extracted\\idle\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

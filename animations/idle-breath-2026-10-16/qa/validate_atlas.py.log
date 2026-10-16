@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "file": "D:\\deskpet\\animations\\idle-breath-2026-10-16\\chiyan-native-breath.webp",
+  "encoded_bytes": 3070810,
+  "sha256": "c589f43fa8b17364de5e01e86f1e10a80db7418b100ed7cbc9fb29af16ce195e",
+  "format": "WEBP",
+  "mode": "RGBA",
+  "columns": 8,
+  "rows": 11,
+  "sprite_version_number": 2,
+  "width": 1536,
+  "height": 2288,
+  "transparent_rgb_residue_pixels": 0,
+  "errors": [],
+  "warnings": []
+}
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\validate_atlas.py:103: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  visible = [value > 0 for value in alpha.getdata()]
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\validate_atlas.py:116: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  rgba.getdata(), alpha.getdata(), expanded.getdata()

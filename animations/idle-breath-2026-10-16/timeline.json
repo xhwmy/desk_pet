@@ -1,0 +1,25 @@
+{
+  "mode": "coherent gentle breathing, hair sway and blink; one native idle sequence",
+  "durations_ms": [
+    1680,
+    660,
+    660,
+    840,
+    840,
+    1920
+  ],
+  "cycle_ms": 6600,
+  "ground_baseline": 203,
+  "source_translation_y": [
+    1,
+    1,
+    2,
+    1,
+    2,
+    1
+  ],
+  "task_and_look_rows_preserved": true,
+  "sha256": "c589f43fa8b17364de5e01e86f1e10a80db7418b100ed7cbc9fb29af16ce195e",
+  "bytes": 3070810,
+  "client_modified": false
+}

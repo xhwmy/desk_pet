@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "checked_at_utc": "2026-10-16T00:31:00.201297+00:00",
+  "checks": {
+    "static_v2_atlas": true,
+    "stored_pixels_equal_final": true,
+    "non_idle_rows_identical_to_pre_update": true,
+    "unused_cells_identical_to_pre_update": true,
+    "idle_replaced_with_new_art": true,
+    "six_distinct_frames": true,
+    "feet_share_baseline_203": true,
+    "safe_frame_edges": true,
+    "loop_endpoint_silhouette_iou_above_90_percent": true,
+    "official_preflight_passed": true,
+    "source_review_passed": true,
+    "frame_review_passed": true,
+    "timeline_matches_final_bytes": true,
+    "atlas-validation_passes_current_bytes": true,
+    "pet-quality_passes_current_bytes": true,
+    "native_preview_six_frames_6600ms": true,
+    "all_state_mp4_decodes": true
+  },
+  "sha256": "c589f43fa8b17364de5e01e86f1e10a80db7418b100ed7cbc9fb29af16ce195e",
+  "loop_endpoint_silhouette_iou": 0.9792498956532109,
+  "idle_bounds": [
+    [
+      32,
+      7,
+      158,
+      203
+    ],
+    [
+      30,
+      7,
+      161,
+      203
+    ],
+    [
+      31,
+      8,
+      160,
+      203
+    ],
+    [
+      31,
+      8,
+      160,
+      203
+    ],
+    [
+      32,
+      8,
+      159,
+      203
+    ],
+    [
+      33,
+      7,
+      158,
+      203
+    ]
+  ],
+  "pet_id": "pet_6abb898c7228819191b6e896f2538d5d",
+  "client_modified": false,
+  "native_mode": "one six-frame coherent idle sequence; no random scheduling"
+}
