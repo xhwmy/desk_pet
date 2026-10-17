@@ -1,0 +1,169 @@
+{
+  "ok": true,
+  "frames_root": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted",
+  "states": [
+    "waving",
+    "jumping"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18015,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        },
+        {
+          "index": 1,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18298,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 2,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18482,
+          "bbox": [
+            29,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 100
+        },
+        {
+          "index": 3,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17983,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16992,
+          "bbox": [
+            27,
+            20,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 106
+        },
+        {
+          "index": 1,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17383,
+          "bbox": [
+            26,
+            12,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        },
+        {
+          "index": 2,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16760,
+          "bbox": [
+            26,
+            5,
+            166,
+            189
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 3,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17734,
+          "bbox": [
+            26,
+            15,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 4,
+          "file": "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17506,
+          "bbox": [
+            28,
+            15,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 98
+        }
+      ]
+    }
+  ]
+}

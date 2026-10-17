@@ -1,0 +1,66 @@
+{
+  "ok": true,
+  "checks": {
+    "static_v2_atlas": true,
+    "untouched_rows_preserved": true,
+    "unused_cells_preserved": true,
+    "both_repaired_rows_changed": true,
+    "safe_frame_edges": true,
+    "wave_feet_share_idle_baseline": true,
+    "jump_lands_on_idle_baseline": true,
+    "jump_leaves_ground": true,
+    "landing_height_at_least_95_percent_of_idle": true,
+    "landing_height_improved_at_least_10_pixels": true,
+    "distinct_wave_frames": true,
+    "distinct_jump_frames": true,
+    "official_preflight_valid": true,
+    "source_review_passed": true,
+    "frame_review_passed": true,
+    "atlas_gate_matches_final_bytes": true,
+    "quality_gate_matches_final_bytes": true,
+    "timeline_matches_final_bytes": true,
+    "waving_preview_frames": true,
+    "jumping_preview_frames": true,
+    "idle_preview_frames": true,
+    "native_idle_6600ms": true
+  },
+  "sha256": "f5efa888f90383ee6635044adeac5079fe621224c8d6626289262c6caf03c5da",
+  "pet_id": "pet_6abb898c7228819191b6e896f2538d5d",
+  "client_modified": false,
+  "idle_height": 196,
+  "old_jump_landing_height": 170,
+  "new_jump_landing_height": 190,
+  "jump_bounds": [
+    [
+      28,
+      18,
+      165,
+      203
+    ],
+    [
+      25,
+      10,
+      168,
+      202
+    ],
+    [
+      27,
+      2,
+      166,
+      187
+    ],
+    [
+      26,
+      13,
+      166,
+      203
+    ],
+    [
+      29,
+      13,
+      164,
+      203
+    ]
+  ],
+  "readback_required": false
+}

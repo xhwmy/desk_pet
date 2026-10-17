@@ -1,0 +1,23 @@
+{
+  "ok": true,
+  "input": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\jumping-raw.png",
+  "output": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\jumping-clean.png",
+  "chroma_key": "#00FFFF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 14911,
+  "decontaminated_pixels": 14885,
+  "spill_suppressed_pixels": 14911,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c3": 3085,
+    "r0c1": 3019,
+    "r0c4": 2996,
+    "r0c0": 2915,
+    "r0c2": 2896
+  },
+  "alpha_preserved": true
+}

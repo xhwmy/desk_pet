@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "input": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\waving-raw.png",
+  "output": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\waving-clean.png",
+  "chroma_key": "#00FFFF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 9006,
+  "decontaminated_pixels": 8911,
+  "spill_suppressed_pixels": 9006,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c2": 2287,
+    "r0c0": 2265,
+    "r0c1": 2237,
+    "r0c3": 2217
+  },
+  "alpha_preserved": true
+}

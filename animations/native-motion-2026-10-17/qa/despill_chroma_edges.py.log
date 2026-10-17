@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "input": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\jumping-raw.png",
+  "output": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\jumping-clean.png",
+  "chroma_key": "#00FFFF",
+  "algorithm": "edge-local-chroma-spill-suppression",
+  "strength": 1,
+  "edge_radius": 5,
+  "spill_tolerance": 0.15,
+  "minimum_saturation": 0.1,
+  "changed_pixels": 14911,
+  "decontaminated_pixels": 14885,
+  "spill_suppressed_pixels": 14911,
+  "rejected_pixels": 0,
+  "changed_by_cell": {
+    "r0c3": 3085,
+    "r0c1": 3019,
+    "r0c4": 2996,
+    "r0c0": 2915,
+    "r0c2": 2896
+  },
+  "alpha_preserved": true
+}
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:206: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  source = list(rgba.getdata())
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:37: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  visible = [value > 0 for value in alpha.getdata()]
+C:\Users\windows\.codex\plugins\cache\openai-curated-remote\work-pets\0.1.6\skills\create-pet\scripts\despill_chroma_edges.py:41: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return [is_visible and nearby > 0 for is_visible, nearby in zip(visible, expanded.getdata())]

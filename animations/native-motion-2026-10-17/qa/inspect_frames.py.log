@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "frames_root": "D:\\deskpet\\animations\\native-motion-2026-10-17\\qa\\frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#00FFFF",
+    "rgb": [
+      0,
+      255,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "waving",
+      "frames": [
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\00.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\01.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\02.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\waving\\03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\00.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\01.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\02.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\03.png",
+        "D:\\deskpet\\animations\\native-motion-2026-10-17\\extracted\\jumping\\04.png"
+      ],
+      "method": "components"
+    }
+  ]
+}
