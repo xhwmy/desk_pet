@@ -5,7 +5,7 @@ from sprite_model import CELL_HEIGHT, CELL_WIDTH, FRAME_ROWS, cell_rect, look_fr
 
 class SpriteModelTests(unittest.TestCase):
     def test_rows_match_built_in_v2_pet(self):
-        self.assertEqual(FRAME_ROWS['idle'], (0, 7))
+        self.assertEqual(FRAME_ROWS['idle'], (0, 6))
         self.assertEqual(FRAME_ROWS['running-right'], (1, 8))
         self.assertEqual(FRAME_ROWS['running-left'], (2, 8))
         self.assertEqual(FRAME_ROWS['jumping'], (4, 5))

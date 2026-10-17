@@ -10,6 +10,7 @@ python -m PyInstaller --noconfirm --clean --onefile --windowed ^
     --name Chiyan-DesktopPet ^
     --icon "%CD%\assets\chiyan.ico" ^
     --add-data "%CD%\assets\spritesheet.png;assets" ^
+    --add-data "%CD%\assets\actions;assets/actions" ^
     --distpath dist --workpath build --specpath build app.py
 if errorlevel 1 exit /b 1
 echo Built: %~dp0dist\Chiyan-DesktopPet.exe

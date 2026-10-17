@@ -1,0 +1,120 @@
+{
+  "hair": {
+    "frames": [
+      "hair/00.png",
+      "hair/01.png",
+      "hair/02.png",
+      "hair/03.png",
+      "hair/04.png",
+      "hair/05.png"
+    ],
+    "durations_ms": [
+      300,
+      320,
+      500,
+      800,
+      350,
+      400
+    ]
+  },
+  "collar": {
+    "frames": [
+      "collar/00.png",
+      "collar/01.png",
+      "collar/02.png",
+      "collar/03.png",
+      "collar/04.png",
+      "collar/05.png"
+    ],
+    "durations_ms": [
+      300,
+      320,
+      500,
+      800,
+      350,
+      400
+    ]
+  },
+  "sleep": {
+    "frames": [
+      "sleep/00.png",
+      "sleep/01.png",
+      "sleep/02.png",
+      "sleep/03.png",
+      "sleep/02.png",
+      "sleep/04.png",
+      "sleep/05.png"
+    ],
+    "durations_ms": [
+      300,
+      450,
+      900,
+      2600,
+      450,
+      450,
+      400
+    ]
+  },
+  "stretch": {
+    "frames": [
+      "stretch/00.png",
+      "stretch/01.png",
+      "stretch/02.png",
+      "stretch/03.png",
+      "stretch/04.png",
+      "stretch/05.png"
+    ],
+    "durations_ms": [
+      300,
+      320,
+      500,
+      800,
+      350,
+      400
+    ]
+  },
+  "typing": {
+    "frames": [
+      "typing/00.png",
+      "typing/01.png",
+      "typing/02.png",
+      "typing/03.png",
+      "typing/02.png",
+      "typing/03.png",
+      "typing/02.png",
+      "typing/03.png",
+      "typing/04.png",
+      "typing/05.png"
+    ],
+    "durations_ms": [
+      300,
+      400,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      400,
+      400
+    ]
+  },
+  "peek": {
+    "frames": [
+      "peek/00.png",
+      "peek/01.png",
+      "peek/02.png",
+      "peek/03.png",
+      "peek/04.png",
+      "peek/05.png"
+    ],
+    "durations_ms": [
+      300,
+      320,
+      500,
+      800,
+      350,
+      400
+    ]
+  }
+}

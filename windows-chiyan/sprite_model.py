@@ -7,7 +7,7 @@ CELL_HEIGHT = 208
 COLUMNS = 8
 ROWS = 11
 FRAME_ROWS = {
-    'idle': (0, 7),
+    'idle': (0, 6),
     'running-right': (1, 8),
     'running-left': (2, 8),
     'waving': (3, 4),
