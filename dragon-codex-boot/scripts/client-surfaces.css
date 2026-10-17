@@ -1,0 +1,60 @@
+/* Adapter for the observed Windows Codex 26.1007 and 26.1013 surface tokens. */
+.bamboo-duo-caption-contrast {
+  position: fixed !important;
+  top: 0 !important;
+  right: 0 !important;
+  width: 220px !important;
+  height: 58px !important;
+  background: radial-gradient(ellipse 220px 58px at right top, rgba(198,218,207,.92), rgba(198,218,207,.82) 58%, rgba(198,218,207,0)) !important;
+  border-bottom-left-radius: 0 !important;
+  box-shadow: none !important;
+  pointer-events: none !important;
+  z-index: 2147483646 !important;
+}
+:root {
+  --color-text: #f4f1ed !important;
+  --color-text-secondary: #c7d2cc !important;
+  --color-text-secondary-solid: #c7d2cc !important;
+  --color-text-secondary-ghost: #b1c2bb !important;
+  --app-color-text-foreground: #f4f1ed !important;
+  --app-color-text-foreground-secondary: #c7d2cc !important;
+  --app-color-text-foreground-tertiary: #b1c2bb !important;
+  --color-surface: #203533 !important;
+  --color-surface-secondary: #29413e !important;
+  --color-surface-tertiary: #29413e !important;
+  --color-surface-elevated: #29413e !important;
+  --color-surface-card: #29413e !important;
+  --color-surface-canvas: #203533 !important;
+  --app-color-background-surface: #203533 !important;
+  --app-color-background-shell: #203533 !important;
+  --app-color-background-control: #29413e !important;
+  --app-color-background-elevated-primary: #29413e !important;
+  --app-color-background-elevated-secondary: #29413e !important;
+  --app-color-background-elevated-primary-opaque: #29413e !important;
+  --app-color-background-elevated-secondary-opaque: #29413e !important;
+  --color-background-composer-surface: #203533 !important;
+  --color-background-composer-action-bar: #203533 !important;
+  --chat-background-color: transparent !important;
+  --input-placeholder-text-color: #b1c2bb !important;
+  --user-message-background-color: #38504b !important;
+  --color-background-user-message: #38504b !important;
+  --color-text-user-message: #f4f1ed !important;
+}
+main.bg-surface, webview.bg-surface {
+  background: transparent !important;
+}
+main[class*="_MainContentSurface_"] {
+  background: linear-gradient(90deg, rgba(12,28,30,.72), rgba(12,28,30,.38) 60%, rgba(12,28,30,.12)) !important;
+}
+.sidebar-navigation {
+  background: transparent !important;
+  color: #f4f1ed !important;
+}
+.app-shell-left-panel {
+  background: rgba(20,40,39,.18) !important;
+  backdrop-filter: none !important;
+}
+[contenteditable="true"], textarea, input {
+  color: #f4f1ed !important;
+  caret-color: #f4f1ed !important;
+}

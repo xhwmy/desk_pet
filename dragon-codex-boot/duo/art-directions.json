@@ -1,0 +1,42 @@
+{
+  "generatedWith": "native image_gen",
+  "status": "art-direction candidates; not selected, not applied, not final animation layers",
+  "references": [
+    {
+      "file": "1-1000042352.jpg",
+      "role": "subject/object",
+      "preserve": "Main pink-haired headphone woman only; visor, hair clips, silver-blue jacket, dark clothing, pink eyes. Do not reproduce the small duplicate chibis."
+    },
+    {
+      "file": "2-1000042350.jpg",
+      "role": "subject/object",
+      "preserve": "Pink-haired cat-eared chibi with pink/cyan star eyes, blue clothes, and pink kitten; preserve small chibi proportions."
+    },
+    {
+      "file": "3-1000021858.jpg",
+      "role": "style-reference",
+      "preserve": "Borrow painterly anime environment, bamboo, water, mist and natural lighting only; exclude the robed woman."
+    }
+  ],
+  "sharedConstraints": "16:9 desktop background, exactly two humanoid subjects and one kitten. Keep left navigation and center chat zones quiet, both characters grouped toward right, lower 20 percent calm for input. No text, UI, logo, watermark, cards or frame. Readability overlay is added later by the runtime.",
+  "options": [
+    {
+      "id": "A",
+      "name": "Bamboo Rain",
+      "file": "art-options/A-bamboo-rain.png",
+      "prompt": "A lush jade bamboo stream in gentle rain with misty mountains and wet moss. On the right dry stone bank the headphone woman kneels and offers a glowing firefly to the chibi hugging her pink kitten. Rich hand-painted anime textures, rose hair against jade, quiet misty water across left/center. Preserve the two referenced character identities and their distinct proportions."
+    },
+    {
+      "id": "B",
+      "name": "Petal Dawn",
+      "file": "art-options/B-petal-dawn.png",
+      "prompt": "A spring dawn bamboo garden and shallow stream, peach light and drifting pink petals. On the right a headphone woman sits on a low wooden bridge and gently touches fingertips with the chibi holding her kitten. Hand-painted anime natural scene, softly rosy highlights and green mist. Preserve subject identities with calm left/center wallpaper zones."
+    },
+    {
+      "id": "C",
+      "name": "Moonlit Fireflies",
+      "file": "art-options/C-moonlit-fireflies.png",
+      "prompt": "Blue-hour moonlit jade bamboo forest with a mountain stream and tiny warm fireflies. Group the headphone woman sitting on a mossy boulder and the chibi hugging her pink kitten on the right; they smile and guide a ribbon of fireflies with their free hands. Dark calm left/center water and bamboo, lavender mist, recognizable pink hair and original clothing."
+    }
+  ]
+}

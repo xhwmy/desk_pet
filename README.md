@@ -1,5 +1,6 @@
 # 赤焰桌宠
 
+- `dragon-codex-boot/duo/`：Bamboo Duo 客户端内部壁纸与自动加载，见[壁纸说明](dragon-codex-boot/duo/README.md)。外部开屏已移除，保留原生启动界面。
 - `animations/idle-breath-2026-10-16/`：当前轻呼吸、发梢摆动和眨眼待机，见[制作说明](animations/idle-breath-2026-10-16/README.md)。
 - `animations/idle-six/`：此前柔和待机、六种动作素材、完整动画预览和自检报告，见[历史制作说明](animations/idle-six/README.md)。
 - `designs/idle-2026-10-15/`：三套待机动作设计稿和生成提示词。

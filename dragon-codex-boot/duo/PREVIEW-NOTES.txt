@@ -1,0 +1,4 @@
+External opening removed at the user's request.
+Only the internal Bamboo Duo wallpaper is active.
+Codex uses its native startup screen; no independent image window is launched.
+Generated opening artwork is retained as a local design asset.

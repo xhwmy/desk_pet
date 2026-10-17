@@ -1,0 +1,17 @@
+{
+  "startup": {
+    "enabled": false,
+    "option": "B",
+    "name": "Petal Dawn",
+    "file": "art-options/B-petal-dawn.png",
+    "showCharacterLayers": false,
+    "note": "External opening removed at the user's request. Artwork retained as a local design asset."
+  },
+  "chatWallpaper": {
+    "option": "C",
+    "name": "Moonlit Fireflies",
+    "file": "art-options/C-moonlit-fireflies.png",
+    "applied": true,
+    "note": "Internal client wallpaper remains selected and applied."
+  }
+}

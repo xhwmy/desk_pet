@@ -4,3 +4,5 @@
 **/dist/
 .idea/
 /animations/idle-six/vendor/
+/.codex-remote-attachments/
+/.local/

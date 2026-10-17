@@ -1,0 +1,27 @@
+{
+  "DisplayName": "Duo Codex Boot",
+  "PlaybackMode": "Scene",
+  "AutoReplaceEntrypoints": false,
+  "ScanAllLocalDrives": false,
+  "Scene": {
+    "Background": "assets/duo/background.jpg",
+    "LeftCharacter": "assets/duo/left.jpg",
+    "RightCharacter": "assets/duo/right.jpg",
+    "DurationSeconds": 8
+  },
+  "AppLaunch": "shell:AppsFolder\\OpenAI.Codex_2p2nqsd0c76g0!App",
+  "ProcessPathContains": "OpenAI.Codex_",
+  "ProcessNames": ["ChatGPT", "Codex"],
+  "HoldAt": 4.8,
+  "TransitionStart": 6,
+  "TransitionEnd": 7.6,
+  "MaxWaitSeconds": 60,
+  "Volume": 0,
+  "PlayerWidth": 1280,
+  "PlayerHeight": 720,
+  "MatchClientToPlayer": true,
+  "ScreenFrames": [
+    {"Time": 6, "X": 0.24, "Y": 0.24, "Width": 0.52, "Height": 0.52},
+    {"Time": 7.6, "X": 0, "Y": 0, "Width": 1, "Height": 1}
+  ]
+}
